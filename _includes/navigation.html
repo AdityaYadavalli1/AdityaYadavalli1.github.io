@@ -1,9 +1,11 @@
-<nav class="navbar navbar-expand-lg navbar-light bg-light">
-  <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-    <div class="navbar-nav">
+<nav class="navbar navbar-expand-lg py-md-2 navbar-custom">
+  <div class="navbar-collapse collapse" id="navbarCustom">
+    <ul class="navbar-nav ml-auto">
   {% for item in site.data.navigation %}
-    <a class="nav-item nav-link" href="{{item.link}}">{{ item.name }}</a>
+      <li {% if page.url == item.link %} class="nav-item active px-5" {% else %} class="nav-item px-5" {% endif %} style="padding-top: 5px">
+        <a class="nav-link" href="{{item.link}}">{{ item.name }}</a>
+      </li>
   {% endfor %}
-    </div>
+    </ul>
   </div>
 </nav>
