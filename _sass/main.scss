@@ -27,12 +27,12 @@
 }
 
 #section02 { background: url("/assets/images/Group.png");
-    background-size: contain;
+    background-size: 100% 100%;
     background-repeat: no-repeat;
     background-position: right;
     overflow-y: hidden ! important;
     overflow-x: hidden ! important;
-    background-color: #b9d6f2;
+    background-color: #ffffff;
     // opacity: 0.5
 }
 #section03 { background: url(https://picsum.photos/1200/800?image=869) center center / cover}
@@ -55,7 +55,7 @@
   opacity: .5;
 }
 #section02 a {
-  padding-top: 60px;
+  padding-top: 120px;
 }
 #section02 a span {
   position: absolute;
