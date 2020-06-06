@@ -25,8 +25,18 @@
     font-weight: bold;
     font-size: 20px;
 }
-
-#section02 { background: url("/assets/images/Group.png");
+.whos_this h1 {
+  color: #000;
+  font-family: 'Raleway';
+  font-size: 25px
+}
+.whos_this p {
+  color: #000;
+  font-family: 'Raleway';
+  font-size: 20px
+}
+#section02 {
+    background: url("/assets/images/Group.png");
     background-size: 100% 100%;
     background-repeat: no-repeat;
     background-position: right;
@@ -35,7 +45,7 @@
     background-color: #ffffff;
     // opacity: 0.5
 }
-#section03 { background: url(https://picsum.photos/1200/800?image=869) center center / cover}
+#section03 { background: url("/assets/images/whos_this.png") center center / cover}
 
 .demo a {
   position: absolute;
