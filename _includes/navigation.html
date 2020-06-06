@@ -2,7 +2,7 @@
   <div class="navbar-collapse collapse" id="navbarCustom">
     <ul class="navbar-nav ml-auto">
   {% for item in site.data.navigation %}
-      <li {% if page.url == item.link %} class="nav-item active px-5" {% else %} class="nav-item px-5" {% endif %} style="padding-top: 5px">
+      <li {% if page.url == item.link %} class="nav-item active px-5" {% else %} class="nav-item px-5" {% endif %} style="margin-top: 10px">
         <a class="nav-link" href="{{item.link}}">{{ item.name }}</a>
       </li>
   {% endfor %}

@@ -5,10 +5,24 @@
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href="/assets/css/styles.css">
     <link href="https://fonts.googleapis.com/css2?family=Raleway&display=swap" rel="stylesheet">
+    <script src="http://code.jquery.com/jquery-3.2.1.min.js"></script>
   </head>
-  <body>
+  <body style="background-color: #ff5500">
     {% include navigation.html %}
     <hr class="underline">
-    {{ content }}
+    <section id="section02" style="height: 100vh">
+      <div>
+        {{content}}
+      </div>
+      <div class="demo">
+        <a href="#section03" class="scrollTo"><span></span></a>
+      </div>
+    </section>
+    <section id="section03" style="height: 100vh">
+      <div>
+        {{ content }}
+      </div>
+    </section>
+    <script type="text/javascript" src="/assets/js/scroll.js"></script>
   </body>
 </html>
