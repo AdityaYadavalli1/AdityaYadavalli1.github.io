@@ -1,15 +1,19 @@
-<!doctype html>
-<html>
+---
+---
+<!DOCTYPE html>
+<html lang="en">
   <head>
-    <meta charset="utf-8">
-    <title>{{ page.title }}</title>
-    <link rel="stylesheet" href="/assets/css/styles.css">
-    <link href="https://fonts.googleapis.com/css2?family=Raleway&display=swap" rel="stylesheet">
-    <script src="http://code.jquery.com/jquery-3.2.1.min.js"></script>
+    {% include header.html %}
   </head>
-  <body style="background-color: #b9d6f2">
-    {% include navigation.html %}
-      <hr class="underline">
-    {{content}}
+  <body>
+    <div class="nav-toggle"><i class="fa fa-bars fa-2x"></i> Herring Cove </div>
+    <div id = "wrapper">
+      {%include navigation.html %}
+      <div class="container">
+        {{ content }}
+      </div>
+      {% include footer.html %}
+    </div>
+    {% include scripts.html %}
   </body>
 </html>
