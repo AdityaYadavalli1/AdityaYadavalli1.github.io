@@ -1,36 +1,4 @@
-# site settings
-title: Aditya
-subtitle: Yadavalli
-email: ayadavalli@gmail.com
-description: CS Student | NLP Enthusiast | Ardent Cricket Fan
+url: "https://adityayadavalli1.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://adityayadavalli1.github.io" # the base hostname & protocol for your site
-author:
-street_address: 1234 Somewhere Road
-city: Hyderabad
-state: TS
-zip_code: 500029
-country: India
-phone: (716) 555-5555
-
-# homepage tiles
-tiles-source: posts # accepts "posts" or "pages"
-tiles-count: 4
-
-# social settings
-500px_url:
-facebook_url: https://www.facebook.com/ayadavalli/
-github_url: https://github.com/AdityaYadavalli1
-gitlab_url: https://gitlab.com/AdityaYadavalli
-googleplus_url:
-instagram_url:
-linkedin_url: https://www.linkedin.com/in/aditya-yadavalli-02b7391ab/
-pinterest_url:
-slack_url:
-twitter_url:
-
-# build settings
-markdown: kramdown
-
-sass:
-  style: compressed
+title: "aditya yadavalli" # the name of your site, e.g. ACME Corp.
+description: "Graduate Student at IIIT-H"

@@ -1,0 +1,31 @@
+menu:
+# - {name: 'about', url: '/about'}
+- {name: 'publications', url: '/publications'}
+# - {name: 'courses', url: '/courses'}
+- {name: 'cv', url: '/cv/Aditya_Yadavalli_Resume_Research.pdf'}
+- {name: 'contact', url: '/contact'}
+
+
+about:
+- {name: 'Hi, I am Aditya!', url: 'vector-calculus'}
+# - {name: 'Quantum Mechanics', url: 'quantum-mechanics'}
+# - {name: 'Stellar Structures', url: 'stellar-structures'}
+
+# people:
+# - {name: 'Primary Investigator', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/primary-investigator.jpg', url: 'primary-investigator'}
+# - {name: 'Lab Technician', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/lab-technician.jpg', url: 'lab-technician'}
+# - {name: 'Graduate Student', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/graduate-student.jpg', url: 'graduate-student'}
+
+courses:
+- {name: 'Vector Calculus', url: 'vector-calculus'}
+- {name: 'Quantum Mechanics', url: 'quantum-mechanics'}
+- {name: 'Stellar Structures', url: 'stellar-structures'}
+
+social:
+- {icon: 'github', link: 'https://github.com/AdityaYadavalli1'}
+- {icon: 'twitter', link: 'https://twitter.com/AdityaYadavall2'}
+# - {icon: 'instagram', link: 'https://instagram.com/paululele'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/aditya-yadavalli-02b7391ab/'}
+
+contacts:
+- {name: 'Aditya Yadavalli', title: 'Research Assistant', department: 'Speech Processing Lab', institution: 'International Institute of Information Technology, Hyderabad', institution_address: 'Professor C.R Road, Gachibowli, Hyderabad, India', phone: 'Only to people I know', email: 'aditya[dot]yadavalli[at]research[dot]iiit[dot]ac[dot]in', office: 'Home (now)', image: 'assets/img/contact.jpg'}
