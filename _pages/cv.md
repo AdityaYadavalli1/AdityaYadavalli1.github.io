@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: /assets/pdf/example_pdf.pdf
+permalink: /assets/pdf/Aditya_CV.pdf
 title: CV
 nav: true
 nav_order: 3
