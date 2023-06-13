@@ -26,10 +26,10 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 I am a Speech/NLP Engineer at Karya Inc. Here, I work on data processing pipelines, quality estimation of crowdsourced datasets, and building assistive tools for crowdsource workers.
 
-Previously, I was a dual degree student at [IIIT Hyderabad](https://www.iiit.ac.in), where I pursued B.Tech (Hons) in Computer Science & M.S. by Research in Computational Linguistics. For my M.S Thesis, I explored how closely related languages can be used to improve the performance of low-resource languages at Speech Processing Lab (SPL) with [Prof. Anil Kumar Vuppala](https://www.iiit.ac.in/people/faculty/anilvuppala/).
+Previously, I was a dual degree student at [IIIT Hyderabad](https://www.iiit.ac.in), where I pursued B.Tech. (Hons) in Computer Science & M.S. by Research in Computational Linguistics. For my M.S. thesis, I explored how closely related languages can be used to improve the performance of low-resource languages at Speech Processing Lab (SPL) with [Prof. Anil Kumar Vuppala](https://www.iiit.ac.in/people/faculty/anilvuppala/).
 
 <!-- I am a 5th year dual degree student at [IIIT Hyderabad](https://www.iiit.ac.in) pursuing a B.Tech (Hons) in Computer Science & M.S. by Research in Computational Linguistics. I will be (hope to!) graduating in July.
 
 Broadly, I am interested in Natural Language Processing (NLP) and Machine Learning. More specifically, I am interested in low-resource NLP. As part of my Masters, I am exploring how closely related languages can be used to improve the performance of low-resource languages at Speech Processing Lab (SPL) under the guidance of [Prof. Anil Kumar Vuppala](https://www.iiit.ac.in/people/faculty/anilvuppala/). -->
 
-When not in the lab, you can find me discussing cricket or picking up obscure trivia that no one cares about.
+When not at work, you can find me discussing cricket or picking up obscure trivia that no one cares about.
