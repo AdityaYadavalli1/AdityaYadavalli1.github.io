@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: Speech/NLP Engineer at <a href='https://karya.in'>Karya Inc</a>
+subtitle: Speech/NLP Engineer at <a href='https://karya.in'>Karya</a>
 
 profile:
   align: right
   image: IMG_6620.JPG
   image_cicular: false # crops the image to make it circular
-  # address: >
-    # <p>555 your office number</p>
+  address:
+    # <p> Applying for PhDs for Fall '24 </p>
     # <p>123 your address street</p>
     # <p>Hyderabad, India</p>
 
@@ -24,7 +24,7 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-I am a Speech/NLP Engineer at Karya Inc. Here, I work on data processing pipelines, quality estimation of crowdsourced datasets, and building assistive tools for crowdsource workers.
+I am a Speech/NLP Engineer at Karya. Here, I work on data processing pipelines, quality estimation of crowdsourced datasets, and building assistive tools for crowdsource workers.
 
 Previously, I was a dual degree student at [IIIT Hyderabad](https://www.iiit.ac.in), where I pursued B.Tech. (Hons) in Computer Science & M.S. by Research in Computational Linguistics. For my M.S. thesis, I explored how closely related languages can be used to improve the performance of low-resource languages at Speech Processing Lab (SPL) with [Prof. Anil Kumar Vuppala](https://www.iiit.ac.in/people/faculty/anilvuppala/).
 
