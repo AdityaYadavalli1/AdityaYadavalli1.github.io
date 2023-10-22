@@ -9,8 +9,8 @@ profile:
   image: IMG_6620.JPG
   image_cicular: false # crops the image to make it circular
   address:
-    # <p> Applying for PhDs for Fall '24 </p>
-    # <p>123 your address street</p>
+    <p> PhD Applicant for Fall '24 </p>
+    <p>Let me know if you think I am a good fit for your group!</p>
     # <p>Hyderabad, India</p>
 
 news: true  # includes a list of news items
@@ -25,6 +25,10 @@ Put your address / P.O. box / other info right below your picture. You can also 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
 I am a Speech/NLP Engineer at Karya. Here, I work on data processing pipelines, quality estimation of crowdsourced datasets, and building assistive tools for crowdsource workers.
+
+I am also a visiting researcher at Case Western Reserve University (CWRU), where I collaborate with [Prof. Vera Tobin](https://veratobin.org). Here, I work on evaluating NLP models trained on Child Directed Speech (CDS) and am looking to establish common mistakes that humans and NLP models make when acquiring a new language.
+
+In my free time, I volunteer at [Masakhane](https://www.masakhane.io) -- a group dedicated to work on improving NLP models for Africa. Along with the rest in the group, I explore how current NLP models exhibit bias when they encounter African languages and accents and how we can mitigate this bias.
 
 Previously, I was a dual degree student at [IIIT Hyderabad](https://www.iiit.ac.in), where I pursued B.Tech. (Hons) in Computer Science & M.S. by Research in Computational Linguistics. For my M.S. thesis, I explored how closely related languages can be used to improve the performance of low-resource languages at Speech Processing Lab (SPL) with [Prof. Anil Kumar Vuppala](https://www.iiit.ac.in/people/faculty/anilvuppala/).
 
