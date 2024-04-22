@@ -9,9 +9,9 @@ profile:
   image: IMG_6620.JPG
   image_cicular: false # crops the image to make it circular
   address:
-    <p> PhD Applicant for Fall '24 </p>
-    <p>Let me know if you think I am a good fit for your group!</p>
-    # <p>Hyderabad, India</p>
+    # <p> PhD Applicant for Fall '24 </p>
+    # <p>Let me know if you think I am a good fit for your group!</p>
+    # # <p>Hyderabad, India</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
