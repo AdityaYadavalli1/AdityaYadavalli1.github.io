@@ -26,11 +26,13 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 I am a Speech/NLP Engineer at Karya. Here, I work on data processing pipelines, quality estimation of crowdsourced datasets, and building assistive tools for crowdsource workers.
 
-I am also a visiting researcher at Case Western Reserve University (CWRU), where I collaborate with [Prof. Vera Tobin](https://veratobin.org). Here, I work on evaluating NLP models trained on Child Directed Speech (CDS) and am looking to establish common mistakes that humans and NLP models make when acquiring a new language.
+I also collaborate with [Prof. Alex Warstadt](http://alexwarstadt.github.io) on using language models as cognitive models to understand the amount, distribution, and the kind of information conveyed through different streams of human communication, i.e, speech and text. 
 
 In my free time, I volunteer at [Masakhane](https://www.masakhane.io) -- a group dedicated to work on improving NLP models for Africa. Along with the rest in the group, I explore how current NLP models do not generalise well, especially when we encounter African languages and accents, and how we can make them better.
 
-Previously, I was a dual degree student at [IIIT Hyderabad](https://www.iiit.ac.in), where I pursued B.Tech. (Hons) in Computer Science & M.S. by Research in Computational Linguistics. For my M.S. thesis, I explored how closely related languages can be used to improve the performance of low-resource languages at Speech Processing Lab (SPL) with [Prof. Anil Kumar Vuppala](https://www.iiit.ac.in/people/faculty/anilvuppala/).
+Previously, I was a visiting researcher at Case Western Reserve University (CWRU), where I collaborated with [Prof. Vera Tobin](https://veratobin.org). There, I worked on evaluating NLP models trained on Child Directed Speech (CDS) and was looking to establish common mistakes that humans and NLP models make when acquiring a new language.
+
+Even before that, I was a dual degree student at [IIIT Hyderabad](https://www.iiit.ac.in), where I pursued B.Tech. (Hons) in Computer Science & M.S. by Research in Computational Linguistics. For my M.S. thesis, I explored how closely related languages can be used to improve the performance of low-resource languages at Speech Processing Lab (SPL) with [Prof. Anil Kumar Vuppala](https://www.iiit.ac.in/people/faculty/anilvuppala/).
 
 <!-- I am a 5th year dual degree student at [IIIT Hyderabad](https://www.iiit.ac.in) pursuing a B.Tech (Hons) in Computer Science & M.S. by Research in Computational Linguistics. I will be (hope to!) graduating in July.
 
