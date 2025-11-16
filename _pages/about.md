@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Speech/NLP Engineer at <a href='https://karya.in'>Karya</a>
+subtitle: Ph.D. Student at UC San Diego
 
 profile:
   align: right
@@ -18,21 +18,21 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-<!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a first-year Ph.D. student in the LeM🍋N Lab at UC San Diego, where I am advised by [Prof. Alex Warstadt](http://alexwarstadt.github.io). Here, I work on using spoken language models (SLMs) as cognitive models to study to study how information is conveyed through lexical (textual) and non-lexical (speech) streams of human communication. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+<!-- I am a Speech/NLP Engineer at Karya. Here, I work on data processing pipelines, quality estimation of crowdsourced datasets, and building assistive tools for crowdsource workers. -->
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
+<!-- I also collaborate with [Prof. Alex Warstadt](http://alexwarstadt.github.io) on using language models as cognitive models to understand the amount, distribution, and the kind of information conveyed through different streams of human communication, i.e, speech and text.  -->
 
-I am a Speech/NLP Engineer at Karya. Here, I work on data processing pipelines, quality estimation of crowdsourced datasets, and building assistive tools for crowdsource workers.
+Previously, I was a Speech/NLP Engineer at [Karya](https://www.karya.in/). There, I worked on a range of topics: human-LLM agreement across various tasks, building indigenous/endangered language resources, quality estimation of crowdsourced datasets, and assistive tools for crowdsource workers.
 
-I also collaborate with [Prof. Alex Warstadt](http://alexwarstadt.github.io) on using language models as cognitive models to understand the amount, distribution, and the kind of information conveyed through different streams of human communication, i.e, speech and text. 
+I used to volunteer at [Masakhane](https://www.masakhane.io) to explore how current SLMs do not generalise well, especially when we encounter African languages and accents, and how we can make them better.
 
-In my free time, I volunteer at [Masakhane](https://www.masakhane.io) -- a group dedicated to work on improving NLP models for Africa. Along with the rest in the group, I explore how current NLP models do not generalise well, especially when we encounter African languages and accents, and how we can make them better.
+<!-- In my free time, I volunteer at [Masakhane](https://www.masakhane.io) -- a group dedicated to work on improving NLP models for Africa. Along with the rest in the group, I explore how current NLP models do not generalise well, especially when we encounter African languages and accents, and how we can make them better. -->
 
-Previously, I was a visiting researcher at Case Western Reserve University (CWRU), where I collaborated with [Prof. Vera Tobin](https://veratobin.org). There, I worked on evaluating NLP models trained on Child Directed Speech (CDS) and was looking to establish common mistakes that humans and NLP models make when acquiring a new language.
+From 2021-2023, I was also a visiting researcher at Case Western Reserve University (CWRU). There, I collaborated with [Prof. Vera Tobin](https://veratobin.org) to evaluate NLP models trained on Child Directed Speech (CDS) to establish common mistakes that humans and NLP models make when acquiring a new (second) language.
 
-Even before that, I was a dual degree student at [IIIT Hyderabad](https://www.iiit.ac.in), where I pursued B.Tech. (Hons) in Computer Science & M.S. by Research in Computational Linguistics. For my M.S. thesis, I explored how closely related languages can be used to improve the performance of low-resource languages at Speech Processing Lab (SPL) with [Prof. Anil Kumar Vuppala](https://www.iiit.ac.in/people/faculty/anilvuppala/).
+I completed my B.Tech. (Hons) in Computer Science & M.S. by Research in Computational Linguistics at [IIIT Hyderabad](https://www.iiit.ac.in). For my M.S. thesis, I explored how closely related languages can be used to improve the performance of low-resource languages at Speech Processing Lab (SPL) with [Prof. Anil Kumar Vuppala](https://www.iiit.ac.in/people/faculty/anilvuppala/).
 
 <!-- I am a 5th year dual degree student at [IIIT Hyderabad](https://www.iiit.ac.in) pursuing a B.Tech (Hons) in Computer Science & M.S. by Research in Computational Linguistics. I will be (hope to!) graduating in July.
 
