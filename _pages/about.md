@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a first-year Ph.D. student in the LeM🍋N Lab at UC San Diego, where I am advised by [Prof. Alex Warstadt](http://alexwarstadt.github.io). Here, I work on using spoken language models (SLMs) as cognitive models to study to study how information is conveyed through lexical (textual) and non-lexical (speech) streams of human communication. 
+I am a first-year Ph.D. student in the LeM🍋N Lab at UC San Diego, where I am advised by [Prof. Alex Warstadt](http://alexwarstadt.github.io). Here, I work on using spoken language models (SLMs) as cognitive models to study how information is conveyed through lexical (textual) and non-lexical (speech) streams of human communication. 
 
 <!-- I am a Speech/NLP Engineer at Karya. Here, I work on data processing pipelines, quality estimation of crowdsourced datasets, and building assistive tools for crowdsource workers. -->
 
